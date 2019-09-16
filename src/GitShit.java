@@ -21,4 +21,9 @@ public class GitShit {
 
   }
 
+  private static void greet() {
+
+    System.out.println("balint");
+  }
+
 }
