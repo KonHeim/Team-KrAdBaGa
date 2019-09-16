@@ -1,11 +1,37 @@
 public class GitShit {
-  public static void main(String[] args) {
-    System.out.println("Hi my age is: " + count());
-  }
 
-  public static int count() {
-    return 23;
-  }
+
   //hi all
 
+  public static void main(String[] args) {
+
+    cheer();
+    future();
+    count();
+
+  }
+
+  private static void cheer() {
+
+    System.out.println("KrAdBaGa");
+
+  }
+
+  private static void future() {
+
+    System.out.println("halak");
+
+  }
+
+  private static void greet() {
+
+    System.out.println("balint");
+  }
+
+
+  private static void count() {
+
+    System.out.println("23");
+    
+  }
 }
